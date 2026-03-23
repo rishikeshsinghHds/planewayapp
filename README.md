@@ -32,7 +32,7 @@ A modern, fully responsive, and SEO-optimized business website built with React,
 - Keyboard navigation support
 - Focus visible states
 - Alt text for all images
-- Semantic HTML elements
+- Semantic HTML elements  tee
 
 ### ⚡ Performance
 - Code splitting with vendor chunks
