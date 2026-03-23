@@ -1,0 +1,23 @@
+#  robots.txt
+
+# Allow all bots
+User-agent: *
+Allow: /
+
+# Specific rules for search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block specific paths if needed
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: /sitemap.xml
+
+# Crawl delay (in seconds)
+Crawl-delay: 1
